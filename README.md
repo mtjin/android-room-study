@@ -3,3 +3,5 @@ https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/
 
 
 https://youngest-programming.tistory.com/179 에 번역 및 정리하면서 공부한다. (확실하게 공부하자)
+
+2020-02-27 완료
